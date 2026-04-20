@@ -10,8 +10,7 @@ Aleksandra Grzywacz
 
 docker build --build-arg VERSION="1.2.3" -t lab5:v2 .
 docker run -d -p 8080:80 --name serwer-lab5 lab5:v2
-<img width="1037" height="45" alt="image" src="https://github.com/user-attachments/assets/33848598-760e-4681-90ac-fc33b59fd70c" />
-<img width="872" height="429" alt="image" src="https://github.com/user-attachments/assets/7dfed4b9-e8fe-4119-bb25-9937fc5ce907" />
+
 <img width="681" height="161" alt="image" src="https://github.com/user-attachments/assets/dca55ae3-a5ec-41c6-8a48-3178d25215b2" />
 <img width="519" height="253" alt="image" src="https://github.com/user-attachments/assets/346a5c4c-5d15-4909-a408-ef78523f6366" />
 
